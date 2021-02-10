@@ -2,7 +2,4 @@
 
 # This file should output "Hello World!" using a puts statement
 
-
-require 'spec_helper'
-
 puts "Hello World!"
